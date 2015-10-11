@@ -1,4 +1,7 @@
 # catinabox - Intro to Testing and Test Automation in Python
+
+**This branch includes all solutions!**
+
 [![Build Status](https://travis-ci.org/keeppythonweird/catinabox.svg?branch=master)](https://travis-ci.org/keeppythonweird/catinabox)
 
 Coverage status:
@@ -33,7 +36,5 @@ exploring these features of unit testing in general and pytest in particular:
 5. [Testing classes with fixtures](./steps/5-classes.md)
 6. [Using mock and patch](./steps/6-mock.md)
 7. [Parameterized tests](./steps/7-params.md)
-
-Solutions are visible by viewing [the solutions branch](https://github.com/keeppythonweird/catinabox/tree/solutions).
 
 ![cattery](pics/cattery.png)
